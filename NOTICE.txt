@@ -1,0 +1,8 @@
+This repository is provided for academic research and reproducibility purposes only.
+
+The original acoustic recordings are not included due to project and data-use restrictions. Only representative anonymized spectrogram samples and corresponding YOLO-format labels are provided.
+
+The model weights, source code, configuration files, and sample data are provided as supplementary research materials. Users should modify the absolute paths in the scripts according to their own local environment before running the code.
+
+For use beyond academic research or for access to additional materials, please contact the corresponding author.
+

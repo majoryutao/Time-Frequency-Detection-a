@@ -1,0 +1,10 @@
+names:
+  0: leakstart
+nc: 1
+test:
+- /root/root/split/images/test
+
+train:
+- /root/root/split/images/train
+val:
+- /root/root/split/images/val
